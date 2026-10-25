@@ -83,6 +83,14 @@ Entorno virtualizado y controlado desarrollado con fines académicos para estudi
 
 **Estado:** Documentación en preparación.
 
+### 🛡️ Mi portafolio de ciberseguridad
+
+Aquí encontrarás mis proyectos, laboratorios e investigaciones relacionados con la ciberseguridad, seguridad ofensiva y defensiva, Red Team, Pentesting y Ethical Hacking.
+
+En este espacio documento mis conocimientos, herramientas utilizadas, metodologías y experiencias prácticas en entornos controlados.
+
+🔗 **[🚀 Ver mi portafolio completo de ciberseguridad](https://github.com/Nz3hacking/Cybersecurity-Portfolio)**
+
 ### 🛡️ Laboratorios de ciberseguridad
 
 Próximamente compartiré proyectos relacionados con:
